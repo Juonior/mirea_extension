@@ -12,7 +12,7 @@ Mirea Extension — это браузерное расширение, разра
 - **Автоматическая вставка ответа**: Для максимального удобства правильный ответ сразу вставляется в тест, без необходимости дополнительных действий.
 
 <p align="center">
-  <img src="https://i.imgur.com/f4j6BkQ.png" alt="Фотография 1" style="margin: 0 10px;">
+  <img src="https://i.imgur.com/wumrR8Z.png" alt="Фотография 1" style="margin: 0 10px;">
 </p>
 
 ## Установка
