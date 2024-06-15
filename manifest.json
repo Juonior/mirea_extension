@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Mirea Extension",
+  "version": "1.0.0",
+  "description": "MIREA Extension Script",
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "scripting"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://online-edu.mirea.ru/mod/quiz/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
